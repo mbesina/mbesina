@@ -8,7 +8,7 @@ QA Automation Engineer
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [mayannbesina@gmail.com](mailto:mayannbesina@gmail.com)
-* 🧠  I'm learning Data Structure and Algorithm
+* 🧠  I'm relearning Selenium with Python
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I like penguins...
 
