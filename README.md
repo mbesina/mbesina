@@ -7,7 +7,7 @@ QA Automation Engineer
 14 years in Information Technology as a Quality Assurance Engineer within the fields of eCommerce (Magento), Financial Services, Real Estate, Software as a Service (SaaS), and Retail Industry with various roles from Manual testing, Automation testing and Lead QA.
 
 * 🌍  I'm based in Philippines
-* 🧠  I'm relearning Selenium with Python
+* 🧠  I'm relearning Data Structure and Algorithm
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I like penguins...
 
